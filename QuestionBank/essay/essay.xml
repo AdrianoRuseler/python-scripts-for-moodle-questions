@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="essay">
+    <name>
+      <text>User-friendly bi-directional workforce</text>
+    </name>
+    <questiontext format="html">
+      <text>Attorney popular hair relationship church floor think. Movement information who.
+Training child source. Need computer they democratic.
+Peace artist term standard. Cut tonight argue billion bar.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>In less sure laugh any push can building.
+Two prove perhaps recently. Agreement despite modern thing design without national worker. Off forward now maybe understand.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>seek</idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist />
+    <graderinfo format="html">
+      <text>Step everybody herself that subject drop fund. Do PM design line. As what great shoulder school idea. Difficult such arm very smile six present.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>Reflect call learn could public maintain. Himself walk good main.
+Vote long admit race according standard much. Carry drop sing from performance service.</text>
+    </responsetemplate>
+  </question>
+</quiz>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Open-architected attitude-oriented matrix</text>
+    </name>
+    <questiontext format="html">
+      <text>Heavy newspaper answer edge break. Thus door some where least. Job responsibility quickly place member.
+Maybe authority design usually move state. Wrong trip agent after sing.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Much listen parent natural age college home. Degree face air fine campaign skin west report.</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>usually</idnumber>
+  </question>
+</quiz>

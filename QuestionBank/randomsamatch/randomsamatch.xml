@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="randomsamatch">
+    <name>
+      <text>Universal grid-enabled model</text>
+    </name>
+    <questiontext format="html">
+      <text>Image since particularly single along. Seat like summer until lay pressure. Strong particular skill apply ball natural.
+Purpose mention place our front see general. Continue interesting our.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>West coach floor democratic. State information operation smile indicate story. Win stuff young oil.
+There decide moment note. Wide most the stay. Audience respond get skill human crime executive.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>medical</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+</quiz>

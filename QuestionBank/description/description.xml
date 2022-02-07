@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="description">
+    <name>
+      <text>Compatible fault-tolerant approach</text>
+    </name>
+    <questiontext format="html">
+      <text>Bit stock artist brother whom smile. Take moment discover letter often.
+Site federal drop against anyone task power.
+During exactly sound Mrs. Form affect later wife.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Size floor line beyond two. Social drop power mission painting reflect like.
+Successful notice child break serious himself management ago. Never ahead media prevent act old play.</text>
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>friend</idnumber>
+  </question>
+</quiz>

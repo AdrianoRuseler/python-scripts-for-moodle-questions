@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="calculated">
+    <name>
+      <text>Team-oriented 3rdgeneration approach</text>
+    </name>
+    <questiontext format="html">
+      <text>{x} e {y}Message against building. Usually society wear low win sit western.
+Into suddenly seat claim. Drug gas military here.
+Analysis create cell improve unit create charge all.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Fall eat argue force prevent time public. In performance discussion cover radio large. Movie health successful.
+Nature case finally civil yet no. Responsibility we tax talk book her service find.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>sit</idnumber>
+    <synchronize>0</synchronize>
+    <single>True</single>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>IIII</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <answer fraction="66.66667">
+      <text>{x}+{y}</text>
+      <tolerance>0.01</tolerance>
+      <tolerancetype>1</tolerancetype>
+      <correctanswerformat>1</correctanswerformat>
+      <correctanswerlength>2</correctanswerlength>
+      <feedback format="html">
+        <text>Here doctor season end serve party west.</text>
+      </feedback>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+    <hint format="html">
+      <text>Cross-group value-added software</text>
+    </hint>
+  </question>
+</quiz>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Profit-focused eco-centric structure</text>
+    </name>
+    <questiontext format="html">
+      <text>Ready far world indicate free. Her skin focus tough.
+Mission company leg order. Past movie month nothing reach. Center fact risk kid heavy. Leg financial back fight personal.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Citizen chance everybody at. Plant option ability budget interesting policy space.
+Place what everyone get. Fly building assume sing walk police pass. Water social involve of.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>when</idnumber>
+    <layouttype>HORIZONTAL</layouttype>
+    <selecttype>CONTIGUOUS</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>ALL_OR_NOTHING</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>none</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Fundamental regional extranet</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Front-line attitude-oriented service-desk</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Visionary bi-directional frame</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Secured dedicated emulation</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Proactive demand-driven benchmark</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Integrated didactic hierarchy</text>
+      <feedback format="html">
+        <text>Digitized optimal database</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Organic 24/7 interface</text>
+    </hint>
+    <hint format="html">
+      <text>Profit-focused system-worthy software</text>
+    </hint>
+  </question>
+</quiz>

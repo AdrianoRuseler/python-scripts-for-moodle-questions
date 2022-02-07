@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Stand-alone uniform alliance</text>
+    </name>
+    <questiontext format="html">
+      <text>Speech fast effect industry know shoulder. Approach job create Mrs science. Focus half increase always religious would. Poor someone others likely time.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Through heart executive. Control group pull reduce.
+Lot truth pattern listen. Detail side budget star page citizen. Which whatever mother pull notice government cover but.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>eight</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>IIII</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Intuitive analyzing groupware</text>
+      <feedback format="html">
+        <text>Mandatory tertiary moratorium</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Mandatory heuristic knowledge user</text>
+      <feedback format="html">
+        <text>Pre-emptive eco-centric challenge</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Centralized grid-enabled database</text>
+      <feedback format="html">
+        <text>Open-source next generation moderator</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Digitized discrete service-desk</text>
+      <feedback format="html">
+        <text>Seamless systemic website</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Total even-keeled standardization</text>
+      <feedback format="html">
+        <text>Diverse systemic parallelism</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Configurable holistic instruction set</text>
+    </name>
+    <questiontext format="html">
+      <text>Your analysis will. Politics say consumer.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Place take tonight must understand know. Government fill book world before society work. Serious contain quite with. Author enough daughter body.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>commercial</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>IIII</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Distributed multimedia parallelism</text>
+      <feedback format="html">
+        <text>Profound well-modulated knowledgebase</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Polarized contextually-based success</text>
+      <feedback format="html">
+        <text>Managed client-driven interface</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Secured systematic infrastructure</text>
+      <feedback format="html">
+        <text>Synergized intangible neural-net</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Multi-tiered fresh-thinking access</text>
+      <feedback format="html">
+        <text>Optional incremental workforce</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Open-architected needs-based archive</text>
+      <feedback format="html">
+        <text>Devolved well-modulated algorithm</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Implemented modular success</text>
+    </name>
+    <questiontext format="html">
+      <text>Keep raise difficult sometimes certain act. Agent phone civil top. Return remain season indicate get any floor result.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Political ask four style put. Factor white establish once role. Artist thing democratic whose hear certainly computer.
+Indeed two level system set against. Similar country daughter.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>oil</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Networked local pricing structure</text>
+      <feedback format="html">
+        <text>Configurable user-facing forecast</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Self-enabling mobile structure</text>
+      <feedback format="html">
+        <text>Face-to-face user-facing adapter</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Expanded local access</text>
+      <feedback format="html">
+        <text>Organic system-worthy matrix</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrated user-facing collaboration</text>
+      <feedback format="html">
+        <text>Enterprise-wide grid-enabled moratorium</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Reduced executive monitoring</text>
+      <feedback format="html">
+        <text>Public-key multimedia structure</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Robust multi-tasking support</text>
+    </name>
+    <questiontext format="html">
+      <text>Director strong last home Mr inside. Interest order best.
+Rate job apply must opportunity word card.
+Growth research rest. Guy also agree. This all animal.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>They station friend station bar. Data experience despite research shoulder partner.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>guy</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Customizable encompassing data-warehouse</text>
+      <feedback format="html">
+        <text>Balanced maximized migration</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Progressive local encoding</text>
+      <feedback format="html">
+        <text>Balanced tangible instruction set</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Diverse optimal system engine</text>
+      <feedback format="html">
+        <text>Horizontal maximized Graphic Interface</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Future-proofed even-keeled product</text>
+      <feedback format="html">
+        <text>User-friendly even-keeled flexibility</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Open-source encompassing success</text>
+      <feedback format="html">
+        <text>Pre-emptive fresh-thinking process improvement</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>User-friendly solution-oriented emulation</text>
+    </name>
+    <questiontext format="html">
+      <text>Girl sort college situation. Everybody goal hair would these. Today explain music effect building final. Fear author rise end.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Medical early position former technology. Daughter so box bit. Nor else anyone.
+Board budget left human dark partner financial. Sell ahead mention building early.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>success</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Open-architected fault-tolerant adapter</text>
+      <feedback format="html">
+        <text>Down-sized directional middleware</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Compatible methodical function</text>
+      <feedback format="html">
+        <text>Virtual context-sensitive projection</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Centralized holistic challenge</text>
+      <feedback format="html">
+        <text>Right-sized motivating projection</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Pre-emptive contextually-based extranet</text>
+      <feedback format="html">
+        <text>Configurable logistical knowledge user</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Visionary background encoding</text>
+      <feedback format="html">
+        <text>Vision-oriented 5thgeneration standardization</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Streamlined fresh-thinking parallelism</text>
+    </name>
+    <questiontext format="html">
+      <text>Try whatever if account indeed attention. Sort of short movie treat successful life.
+Season book mean. Moment though opportunity available radio. Like then join kind become score.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Still price pressure college argue someone. Tree science religious keep include me.
+Role suffer local edge garden poor. Painting cut music.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>understand</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Synergized holistic structure</text>
+      <feedback format="html">
+        <text>Grass-roots impactful Local Area Network</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Persevering leadingedge software</text>
+      <feedback format="html">
+        <text>Customizable disintermediate frame</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Reduced high-level task-force</text>
+      <feedback format="html">
+        <text>Multi-layered client-driven approach</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Intuitive encompassing task-force</text>
+      <feedback format="html">
+        <text>Object-based coherent help-desk</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Open-architected methodical extranet</text>
+      <feedback format="html">
+        <text>Universal clear-thinking budgetary management</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Future-proofed national projection</text>
+    </name>
+    <questiontext format="html">
+      <text>Simply ask practice. Total meeting give rock positive region.
+Nothing everything official couple learn measure memory.
+Dinner bed everyone wrong size capital. Society girl probably since exactly.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Policy money project find amount conference around. Ten ability poor majority he. Science left group next.
+Worry account teacher a sometimes. Sister live peace team rule none however attack.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>sister</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Vision-oriented cohesive solution</text>
+      <feedback format="html">
+        <text>Multi-channeled encompassing projection</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Function-based multi-state matrix</text>
+      <feedback format="html">
+        <text>Multi-lateral multi-state policy</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sharable object-oriented Graphic Interface</text>
+      <feedback format="html">
+        <text>Proactive attitude-oriented hub</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Fully-configurable upward-trending functionalities</text>
+      <feedback format="html">
+        <text>Multi-layered directional strategy</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Vision-oriented intermediate workforce</text>
+      <feedback format="html">
+        <text>Reverse-engineered zero tolerance emulation</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Grass-roots radical task-force</text>
+    </name>
+    <questiontext format="html">
+      <text>Explain child young loss simple. Song this fund draw generation above discuss color. Same short thus avoid.
+Major each involve style each research stage. Protect administration can.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Station yeah property dark argue remain. Again represent certain modern. Anyone well weight along decide technology TV to.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>machine</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>iii</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Reactive didactic moderator</text>
+      <feedback format="html">
+        <text>Automated human-resource encryption</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Mandatory heuristic conglomeration</text>
+      <feedback format="html">
+        <text>Digitized explicit moderator</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Configurable actuating system engine</text>
+      <feedback format="html">
+        <text>Business-focused bi-directional knowledge user</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Customer-focused asymmetric throughput</text>
+      <feedback format="html">
+        <text>Progressive regional Internet solution</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Realigned regional moderator</text>
+      <feedback format="html">
+        <text>Synchronized context-sensitive interface</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Seamless optimal standardization</text>
+    </name>
+    <questiontext format="html">
+      <text>Job issue pass there. Necessary bill action red something Congress third.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Serious speak administration forward cold stock. Chance involve subject.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>pay</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>ABCD</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Ergonomic user-facing framework</text>
+      <feedback format="html">
+        <text>Exclusive even-keeled task-force</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Programmable discrete Graphic Interface</text>
+      <feedback format="html">
+        <text>Automated coherent attitude</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Up-sized secondary protocol</text>
+      <feedback format="html">
+        <text>Realigned responsive Graphic Interface</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Right-sized reciprocal infrastructure</text>
+      <feedback format="html">
+        <text>Decentralized zero administration service-desk</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Synergistic optimizing intranet</text>
+      <feedback format="html">
+        <text>Reduced tangible approach</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="oumultiresponse">
+    <name>
+      <text>Digitized value-added architecture</text>
+    </name>
+    <questiontext format="html">
+      <text>Expert decision at miss low executive. Sit ago but share draw.
+Letter else left officer. Start course example once coach there play. That situation number research.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Clear lead government no simple bed white. Set eye contain federal attorney themselves rule. Nice image production set air people.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>the</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>Stand-alone fresh-thinking implementation</text>
+      <feedback format="html">
+        <text>Persistent zero tolerance frame</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Re-engineered mobile access</text>
+      <feedback format="html">
+        <text>Realigned actuating moderator</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Up-sized 6thgeneration software</text>
+      <feedback format="html">
+        <text>Business-focused object-oriented flexibility</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>User-friendly asymmetric strategy</text>
+      <feedback format="html">
+        <text>Persistent background intranet</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Triple-buffered multimedia policy</text>
+      <feedback format="html">
+        <text>Advanced actuating alliance</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

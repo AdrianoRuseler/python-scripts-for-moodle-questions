@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="gapselect">
+    <name>
+      <text>Upgradable asynchronous alliance</text>
+    </name>
+    <questiontext format="html">
+      <text>Sort who camera. [[1]] &lt;br&gt; Fish detail research situation between. [[2]] &lt;br&gt; Company goal key whatever condition. [[3]] &lt;br&gt; Up evidence behind program. [[4]] &lt;br&gt; Market occur claim bad. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Everyone trade less almost if before child around. Door him of others artist message eye.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>sister</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>street</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>cup</text>
+      <group>3</group>
+    </selectoption>
+    <selectoption>
+      <text>how</text>
+      <group>8</group>
+    </selectoption>
+    <selectoption>
+      <text>present</text>
+      <group>8</group>
+    </selectoption>
+    <selectoption>
+      <text>open</text>
+      <group>6</group>
+    </selectoption>
+    <hint format="html">
+      <text>De-engineered attitude-oriented open system</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Inverse bottom-line software</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>

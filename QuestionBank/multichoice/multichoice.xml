@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Quality-focused tangible open system</text>
+    </name>
+    <questiontext format="html">
+      <text>My again they day. Page ahead economy. Worker owner perform call space describe bed.
+Hard factor account hold. Position various suffer matter summer.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Walk with they off drop create. Sometimes very point fall.
+Ok oil indicate have. Catch goal present cold act hour usually. Reach in child evening skin.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>dream</idnumber>
+    <single>True</single>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Job quickly report represent real threat.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Western time fight prevent ok sea read.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Best stage family prevent.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Occur collection spring ok responsibility.</text>
+      <feedback format="html">
+        <text>Total real-time model</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Focused 24/7 extranet</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Compatible explicit definition</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>

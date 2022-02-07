@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="shortanswer">
+    <name>
+      <text>Diverse actuating throughput</text>
+    </name>
+    <questiontext format="html">
+      <text>Present company eight science my. Interview start book show sort. Record firm race artist economic character.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Discussion indicate suddenly along far action PM Mr.
+How argue save general particular finally through nothing. While agency food most.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>special</idnumber>
+    <usecase>1</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Reveal before skill pass dog yes.</text>
+      <feedback format="html">
+        <text>Upgradable foreground product</text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>Wish since stand office.</text>
+      <feedback format="html">
+        <text>Progressive incremental definition</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Send page yes avoid some sit.</text>
+      <feedback format="html">
+        <text>Down-sized uniform task-force</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Government rise last star.</text>
+      <feedback format="html">
+        <text>Ergonomic mission-critical functionalities</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Decentralized high-level artificial intelligence</text>
+    </hint>
+    <hint format="html">
+      <text>Re-contextualized executive product</text>
+    </hint>
+  </question>
+</quiz>

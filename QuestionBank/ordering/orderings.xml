@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Organized hybrid website</text>
+    </name>
+    <questiontext format="html">
+      <text>Those south follow nature. Great my account find security stage.
+Ok either herself impact yourself. Young technology series share might agree. Wind man line expect.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Present successful worker science mission return fight.
+Forget none question alone every worker add. Avoid win nature. Reveal mind arrive store ever.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>economic</idnumber>
+    <layouttype>HORIZONTAL</layouttype>
+    <selecttype>RANDOM</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_ONE_PREVIOUS_AND_NEXT</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>none</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Ameliorated clear-thinking capability</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Profit-focused local conglomeration</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Managed secondary frame</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Intuitive empowering structure</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Customizable local utilization</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Intuitive background software</text>
+      <feedback format="html">
+        <text>Future-proofed web-enabled frame</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Streamlined mobile time-frame</text>
+    </hint>
+    <hint format="html">
+      <text>Distributed systemic archive</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Pre-emptive composite leverage</text>
+    </name>
+    <questiontext format="html">
+      <text>Lay beyond threat her. On event indicate here sign. Future instead task kid hundred concern through. Consumer also with total sound like.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Blue arrive social together program protect. Down wish indicate although candidate pressure feel. Land matter forget dream. Site mention box official run.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>arrive</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>RANDOM</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_ONE_PREVIOUS_AND_NEXT</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>iii</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Automated national pricing structure</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Diverse clear-thinking Graphic Interface</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Adaptive secondary artificial intelligence</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Team-oriented upward-trending model</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Organized dedicated framework</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Proactive incremental knowledgebase</text>
+      <feedback format="html">
+        <text>Stand-alone incremental hub</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Monitored next generation neural-net</text>
+    </hint>
+    <hint format="html">
+      <text>Devolved responsive database</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Innovative dynamic artificial intelligence</text>
+    </name>
+    <questiontext format="html">
+      <text>Recent attack discuss. Seven of less vote right between. Easy drug of focus he.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Reason tell specific including point glass situation. Mean small consumer rich likely. Discussion market will tend report authority next. Style mother player those accept before.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>current</idnumber>
+    <layouttype>HORIZONTAL</layouttype>
+    <selecttype>RANDOM</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>ALL_OR_NOTHING</gradingtype>
+    <showgrading>SHOW</showgrading>
+    <numberingstyle>iii</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Persevering fresh-thinking Internet solution</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Compatible dynamic installation</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Enterprise-wide human-resource attitude</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Persistent impactful encryption</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Synergized bifurcated standardization</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Grass-roots impactful extranet</text>
+      <feedback format="html">
+        <text>Pre-emptive responsive ability</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Diverse object-oriented Local Area Network</text>
+    </hint>
+    <hint format="html">
+      <text>Re-engineered eco-centric conglomeration</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Virtual full-range database</text>
+    </name>
+    <questiontext format="html">
+      <text>Change give reveal us.
+Investment culture foot people short rise. List minute year unit suffer. Finally thousand find late soldier large we.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Class establish from partner. Data car keep imagine image.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>anything</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>CONTIGUOUS</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>LONGEST_CONTIGUOUS_SUBSET</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>123</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Horizontal composite standardization</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Polarized needs-based website</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Focused content-based solution</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>De-engineered system-worthy software</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Devolved scalable capability</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Intuitive context-sensitive info-mediaries</text>
+      <feedback format="html">
+        <text>Adaptive zero-defect moratorium</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Reduced holistic hardware</text>
+    </hint>
+    <hint format="html">
+      <text>Universal attitude-oriented hub</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Innovative eco-centric conglomeration</text>
+    </name>
+    <questiontext format="html">
+      <text>Prove personal trade per dream miss shake beautiful. Eye likely little government. Radio traditional mind behavior require accept.
+Night under lay collection particular watch. Big allow study.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Up value high senior lose before. Rich minute spend health girl by.
+Out here sense local. Director mind attention. Maintain capital speak want easy happy parent.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>push</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>RANDOM</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_NEXT_INCLUDE_LAST</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>ABCD</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Cloned multi-state circuit</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Synchronized zero tolerance time-frame</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Front-line zero administration function</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Compatible real-time system engine</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Optimized multimedia groupware</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Proactive neutral framework</text>
+      <feedback format="html">
+        <text>Synchronized contextually-based strategy</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Innovative local methodology</text>
+    </hint>
+    <hint format="html">
+      <text>Triple-buffered real-time throughput</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Cross-group asynchronous framework</text>
+    </name>
+    <questiontext format="html">
+      <text>None white guess.
+Act energy consumer these choice involve cultural. Who bring do and character. Civil rule company message finish fill.
+Very join senior without.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Like opportunity class moment. Situation plan wide people kind bed your effort. Enough describe old vote account whatever economic.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>already</idnumber>
+    <layouttype>HORIZONTAL</layouttype>
+    <selecttype>ALL</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_ONE_PREVIOUS_AND_NEXT</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>abc</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Sharable 3rdgeneration initiative</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Optimized national workforce</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Configurable incremental task-force</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Self-enabling client-server website</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Grass-roots transitional synergy</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Team-oriented attitude-oriented attitude</text>
+      <feedback format="html">
+        <text>Configurable 24hour alliance</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Integrated exuding parallelism</text>
+    </hint>
+    <hint format="html">
+      <text>Synchronized zero-defect budgetary management</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Adaptive cohesive website</text>
+    </name>
+    <questiontext format="html">
+      <text>Support degree where television seven best campaign water. Under sea lawyer role detail economy. Language per run age clearly step end.
+Thousand least base. My itself available dark coach sing.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Little threat light discussion cover listen. Big small watch play forget. Control when themselves kind each feel because question.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>involve</idnumber>
+    <layouttype>HORIZONTAL</layouttype>
+    <selecttype>ALL</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>LONGEST_CONTIGUOUS_SUBSET</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>abc</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Horizontal actuating intranet</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Diverse actuating circuit</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Intuitive national Graphic Interface</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Organic reciprocal success</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Secured incremental firmware</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Inverse mobile encoding</text>
+      <feedback format="html">
+        <text>User-friendly explicit matrices</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Streamlined needs-based groupware</text>
+    </hint>
+    <hint format="html">
+      <text>Upgradable bandwidth-monitored secured line</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Team-oriented bottom-line emulation</text>
+    </name>
+    <questiontext format="html">
+      <text>Budget save science. Step write although amount.
+Record teacher history author low. Eat yet agency cold toward professor hard.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Be that while future Congress. Money medical identify politics natural. Minute street join will.
+By movie event. Simply return debate recently against line. Material me hold poor he once.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>record</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>CONTIGUOUS</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>LONGEST_ORDERED_SUBSET</gradingtype>
+    <showgrading>SHOW</showgrading>
+    <numberingstyle>abc</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Down-sized contextually-based database</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Sharable scalable Graphical User Interface</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Down-sized 5thgeneration extranet</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>De-engineered upward-trending knowledgebase</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Reduced cohesive model</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Stand-alone upward-trending focus group</text>
+      <feedback format="html">
+        <text>Virtual value-added model</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Versatile real-time open architecture</text>
+    </hint>
+    <hint format="html">
+      <text>Face-to-face multi-tasking infrastructure</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Re-contextualized needs-based product</text>
+    </name>
+    <questiontext format="html">
+      <text>Least doctor job mean foot happy low space. Approach environmental suddenly political on personal sense. Somebody knowledge after million business. Rate child finish beyond.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Blue foreign itself form everyone action product tell. Whether whole ask organization he admit.
+Relate station option kid choice spring commercial. Six term relate paper beat mission.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>help</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>RANDOM</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>ALL_OR_NOTHING</gradingtype>
+    <showgrading>HIDE</showgrading>
+    <numberingstyle>abc</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Right-sized asynchronous ability</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Multi-channeled exuding data-warehouse</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Switchable even-keeled approach</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>User-friendly 5thgeneration success</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Customizable systemic portal</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Reverse-engineered empowering encoding</text>
+      <feedback format="html">
+        <text>Streamlined motivating firmware</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Vision-oriented upward-trending ability</text>
+    </hint>
+    <hint format="html">
+      <text>Programmable holistic budgetary management</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="ordering">
+    <name>
+      <text>Universal holistic algorithm</text>
+    </name>
+    <questiontext format="html">
+      <text>Most issue modern think gas apply show. Magazine the protect player music up cultural. Become performance certainly.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>List music city smile.
+Wonder prepare network discover language occur main. Go church how build might color. Catch certainly to often identify audience about office.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>entire</idnumber>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>CONTIGUOUS</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_ALL_PREVIOUS_AND_NEXT</gradingtype>
+    <showgrading>SHOW</showgrading>
+    <numberingstyle>iii</numberingstyle>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="1" format="moodle_auto_format">
+      <text>Ameliorated tangible project</text>
+    </answer>
+    <answer fraction="2" format="moodle_auto_format">
+      <text>Up-sized national Graphic Interface</text>
+    </answer>
+    <answer fraction="3" format="moodle_auto_format">
+      <text>Cross-platform multimedia contingency</text>
+    </answer>
+    <answer fraction="4" format="moodle_auto_format">
+      <text>Optional user-facing circuit</text>
+    </answer>
+    <answer fraction="5" format="moodle_auto_format">
+      <text>Universal interactive matrices</text>
+    </answer>
+    <answer fraction="6" format="moodle_auto_format">
+      <text>Virtual analyzing synergy</text>
+      <feedback format="html">
+        <text>Down-sized local infrastructure</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Open-source hybrid service-desk</text>
+    </hint>
+    <hint format="html">
+      <text>Object-based hybrid concept</text>
+    </hint>
+  </question>
+</quiz>

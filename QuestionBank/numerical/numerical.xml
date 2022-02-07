@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Up-sized mobile matrices</text>
+    </name>
+    <questiontext format="html">
+      <text>Home clearly song answer song drive. Property beautiful head better right board garden.
+Kitchen cold item wife. Wall later prepare include white others.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Capital parent they education. Point trial when every treat practice. Room begin night voice.
+Southern affect protect know. Economy item American adult reach cup town. Line listen their.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>choose</idnumber>
+    <answer fraction="50" format="moodle_auto_format">
+      <text>82</text>
+      <feedback format="html">
+        <text>City police federal growth budget forget according.</text>
+      </feedback>
+      <tolerance>7</tolerance>
+    </answer>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>86</text>
+      <feedback format="html">
+        <text>Director high specific want page marriage.</text>
+      </feedback>
+      <tolerance>1</tolerance>
+    </answer>
+    <answer fraction="50" format="moodle_auto_format">
+      <text>82</text>
+      <feedback format="html">
+        <text>Claim time home American word.</text>
+      </feedback>
+      <tolerance>3</tolerance>
+    </answer>
+    <answer fraction="40" format="moodle_auto_format">
+      <text>74</text>
+      <feedback format="html">
+        <text>Close respond present country pattern.</text>
+      </feedback>
+      <tolerance>3</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Fully-configurable methodical secured line</text>
+    </hint>
+  </question>
+</quiz>

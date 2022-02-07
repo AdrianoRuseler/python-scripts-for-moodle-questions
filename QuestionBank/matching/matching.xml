@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Grass-roots bi-directional concept</text>
+    </name>
+    <questiontext format="html">
+      <text>Case trade because activity any. Yes when rich civil age example seek operation. Management art far item.
+Democratic act pressure probably dream prevent picture.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>East million many. Book cut similar mind consumer enter those. Season night really stock history. Easy education often cultural room system.
+Most position hour safe.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>possible</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Sell individual state item.</text>
+      <answer>
+        <text>education</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Respond color property.</text>
+      <answer>
+        <text>visit</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Might feel teach opportunity soon glass social.</text>
+      <answer>
+        <text>goal</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Product read coach fly head have treatment clear.</text>
+      <answer>
+        <text>six</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Organized zero administration synergy</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Function-based zero administration encoding</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>
