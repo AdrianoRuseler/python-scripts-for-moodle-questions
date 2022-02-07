@@ -1,7 +1,6 @@
 # python-scripts-for-moodle-questions
-
-## Calculated
-https://github.com/AdrianoRuseler/python-scripts-for-moodle-questions/tree/main/QuestionBank/calculated
+* [Como instalar o Python no Windows](https://youtu.be/t42AXbpQfag)
+* [Download the latest version for Windows](https://www.python.org/downloads/)
 
 
 ## License
