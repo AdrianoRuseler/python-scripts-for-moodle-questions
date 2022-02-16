@@ -49,6 +49,9 @@ As palavras que faltam no texto da questão são preenchidas utilizando menus de
 * [Como criar uma questão do tipo Selecionar as palavras que faltam no Moodle](https://youtu.be/tbsTUJAdUzs)
 
 ## [matching](matching)
+A resposta a cada sub-questão deve ser escolhida de uma lista de possibilidades.
+* [Matching question type (Moodle Docs)](https://docs.moodle.org/311/en/Matching_question_type)
+* [Como criar uma questão do tipo de associação no Moodle](https://youtu.be/p0ncV140Xcg)
 
 ## [multichoice](multichoice)
 Permite a escolha de uma ou múltiplas respostas de uma lista pré definida.
