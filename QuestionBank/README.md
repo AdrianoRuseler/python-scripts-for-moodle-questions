@@ -68,6 +68,9 @@ Dispor os itens desorganizados em uma ordem que faça sentido.
 ## [oumultiresponse](oumultiresponse)
 
 ## [randomsamatch](randomsamatch)
+Como a questão associativa, mas criada aleatoriamente a partir das questões de resposta curta em uma categoria particular.
+* [Random Short-Answer Matching question type (Moodle Docs)](https://docs.moodle.org/311/en/Random_Short-Answer_Matching_question_type)
+* [Como criar uma questão do tipo associação aleatória de resposta curta no Moodle](https://youtu.be/b2LLAqy-IuU)
 
 ## [shortanswer](shortanswer)
 Permite uma resposta de uma ou de poucas palavras, que é avaliada pela comparação com vários modelos de respostas, os quais podem conter curingas.
