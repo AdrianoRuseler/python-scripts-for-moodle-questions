@@ -16,6 +16,9 @@ Questões deste tipo são muito flexíveis, mas só podem ser criadas por digita
 * [Embedded Answers (Cloze) question type (Moodle Docs)](https://docs.moodle.org/311/en/Embedded_Answers_(Cloze)_question_type)
 * [Como criar uma questão do tipo Respostas Embutidas (Cloze) no Moodle](https://youtu.be/lnRVSIRU4Os)
 
+## ddimageortext
+
+
 ## ddmarker
 Marcadores são arrastados e soltos em cima de uma imagem de fundo.
 Observação: esse tipo de pergunta não é acessível a usuários com deficiência visual.
