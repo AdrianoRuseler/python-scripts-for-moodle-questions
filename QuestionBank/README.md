@@ -17,7 +17,10 @@ Questões deste tipo são muito flexíveis, mas só podem ser criadas por digita
 * [Como criar uma questão do tipo Respostas Embutidas (Cloze) no Moodle](https://youtu.be/lnRVSIRU4Os)
 
 ## ddimageortext
-
+Imagens ou rótulos de texto são arrastados e soltos em regiões alvo em uma imagem de fundo.
+Observação: esse tipo de questão não é acessível a usuários com deficiência visual.
+* [Drag and drop onto image question type (Moodle Docs)](https://docs.moodle.org/311/en/Drag_and_drop_onto_image_question_type)
+* [Como criar uma questão do tipo arrastar e soltar sobre a imagem no Moodle](https://youtu.be/Bej-s046gSk)
 
 ## ddmarker
 Marcadores são arrastados e soltos em cima de uma imagem de fundo.
