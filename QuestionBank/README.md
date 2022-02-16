@@ -69,6 +69,9 @@ Dispor os itens desorganizados em uma ordem que faça sentido.
 * [Como criar uma questão do tipo ordenação no Moodle](https://youtu.be/bVkm1So5JUo)
 
 ## [oumultiresponse](oumultiresponse)
+A multiple-choice, multiple-response question type with particular scoring rules.
+Recommended if your question has more than one correct answer.
+* [OU multiple response question type (Moodle Docs)](https://docs.moodle.org/311/en/OU_multiple_response_question_type)
 
 ## [randomsamatch](randomsamatch)
 Como a questão associativa, mas criada aleatoriamente a partir das questões de resposta curta em uma categoria particular.
