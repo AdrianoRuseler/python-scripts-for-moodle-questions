@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Right-sized fresh-thinking productivity</text>
+    </name>
+    <questiontext format="html">
+      <text>Some which by score that return. Protect time story organization dinner. Time former father bill result find against.
+Ok development campaign agent sign against. Nearly begin know environment car TV.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>attack</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Horizontal 4thgeneration open system</text>
+    </name>
+    <questiontext format="html">
+      <text>Treat interest concern carry dinner. Him wife age race each player true.
+Exist return attention score run happen. Use crime four listen state.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>environment</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Customer-focused needs-based interface</text>
+    </name>
+    <questiontext format="html">
+      <text>Carry strategy boy rise identify stage marriage. In Mr up southern why kitchen hair play.
+Me subject end mind total.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>cause</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Phased neutral capacity</text>
+    </name>
+    <questiontext format="html">
+      <text>Beautiful water cut exist operation. Everything modern season all heart.
+Understand financial cause add begin.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>if</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Multi-channeled stable parallelism</text>
+    </name>
+    <questiontext format="html">
+      <text>Sea issue impact investment. Peace seem behind against decide. Feel reality enjoy speech second language nearly. Quite hope carry just important action.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>move</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Balanced cohesive open architecture</text>
+    </name>
+    <questiontext format="html">
+      <text>From indicate establish prove government magazine million. Safe skin cut charge significant degree.
+Traditional everybody task young sometimes professor. Building win us garden suffer article value.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>stage</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Grass-roots heuristic encoding</text>
+    </name>
+    <questiontext format="html">
+      <text>Word particular man.
+Family along understand. Become suffer little program authority hard quality guy.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>movie</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Business-focused clear-thinking hierarchy</text>
+    </name>
+    <questiontext format="html">
+      <text>Leg citizen letter none two family charge art.
+Share mind that many risk eat.
+Mean administration board ground. Goal when technology somebody now claim responsibility.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>thank</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Ergonomic upward-trending complexity</text>
+    </name>
+    <questiontext format="html">
+      <text>Large small than hour. Although institution kind one truth cause picture.
+True tend suffer everybody worker air. Memory cause must point particular.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>most</idnumber>
+  </question>
+  <!--This is a comment-->
+  <question type="cloze">
+    <name>
+      <text>Cross-group foreground help-desk</text>
+    </name>
+    <questiontext format="html">
+      <text>Reflect discover law although raise. Southern teacher require unit everybody where.
+Show onto read already image. Move quite future other detail there perform sit. You affect travel hot.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>probably</idnumber>
+  </question>
+</quiz>
