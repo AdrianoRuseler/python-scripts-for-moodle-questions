@@ -8,5 +8,16 @@ Faker is a Python package that generates fake data for you.
 * [Faker Project](https://pypi.org/project/Faker/)
 
 
+## Requirements
+
+pip install Faker
+pip install py-avataaars
+pip install cairocffi
+
+% pip install pipwin
+% pipwin install cairocffi
+
+
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
