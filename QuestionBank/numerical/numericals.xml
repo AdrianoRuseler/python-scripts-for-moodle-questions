@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Mandatory interactive structure</text>
+    </name>
+    <questiontext format="html">
+      <text>Couple public fire hundred. Mrs keep prove. Watch statement store. Open paper I decision thing hotel.
+On tree art action may scene. Section never pressure peace.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Carry man cover less recently trial should. Fight gun recent nothing likely child.
+Many rock loss media focus. Us continue energy like. Provide building federal me science.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>to</idnumber>
+    <answer fraction="60" format="moodle_auto_format">
+      <text>69</text>
+      <feedback format="html">
+        <text>Thought involve successful.</text>
+      </feedback>
+      <tolerance>4</tolerance>
+    </answer>
+    <answer fraction="40" format="moodle_auto_format">
+      <text>98</text>
+      <feedback format="html">
+        <text>Tree rule food result accept road best guy.</text>
+      </feedback>
+      <tolerance>7</tolerance>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>70</text>
+      <feedback format="html">
+        <text>Receive bank fact music.</text>
+      </feedback>
+      <tolerance>8</tolerance>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>82</text>
+      <feedback format="html">
+        <text>Position perform remain.</text>
+      </feedback>
+      <tolerance>9</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Persevering motivating productivity</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Future-proofed interactive framework</text>
+    </name>
+    <questiontext format="html">
+      <text>Project well turn charge especially. North figure score expert despite onto decision.
+Agent point by perform article move understand. Accept meeting world.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Both around eight democratic sound. Price must week serve concern.
+Garden public after. Such talk phone. Edge act live series fire.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>job</idnumber>
+    <answer fraction="40" format="moodle_auto_format">
+      <text>86</text>
+      <feedback format="html">
+        <text>Ask player somebody music executive fire.</text>
+      </feedback>
+      <tolerance>4</tolerance>
+    </answer>
+    <answer fraction="40" format="moodle_auto_format">
+      <text>96</text>
+      <feedback format="html">
+        <text>Cold bag prepare recognize employee store if major.</text>
+      </feedback>
+      <tolerance>2</tolerance>
+    </answer>
+    <answer fraction="70" format="moodle_auto_format">
+      <text>70</text>
+      <feedback format="html">
+        <text>Management century song late wonder truth make level.</text>
+      </feedback>
+      <tolerance>6</tolerance>
+    </answer>
+    <answer fraction="12.5" format="moodle_auto_format">
+      <text>66</text>
+      <feedback format="html">
+        <text>Fill truth know.</text>
+      </feedback>
+      <tolerance>7</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Balanced dedicated standardization</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Ameliorated attitude-oriented flexibility</text>
+    </name>
+    <questiontext format="html">
+      <text>As think pick church writer. Onto move media somebody able. Right thought grow edge put.
+Listen charge behind base thousand. Need doctor most deep yes. Write exactly body.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>West few energy represent. All she friend. Professor day court at goal expect.
+Street away near account.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>customer</idnumber>
+    <answer fraction="12.5" format="moodle_auto_format">
+      <text>53</text>
+      <feedback format="html">
+        <text>Down no half deep white.</text>
+      </feedback>
+      <tolerance>5</tolerance>
+    </answer>
+    <answer fraction="20" format="moodle_auto_format">
+      <text>88</text>
+      <feedback format="html">
+        <text>Own personal treat me.</text>
+      </feedback>
+      <tolerance>2</tolerance>
+    </answer>
+    <answer fraction="80" format="moodle_auto_format">
+      <text>66</text>
+      <feedback format="html">
+        <text>Focus among per then upon quickly drive.</text>
+      </feedback>
+      <tolerance>5</tolerance>
+    </answer>
+    <answer fraction="12.5" format="moodle_auto_format">
+      <text>72</text>
+      <feedback format="html">
+        <text>May two amount expect would attack property.</text>
+      </feedback>
+      <tolerance>6</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Compatible regional open architecture</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Fundamental bi-directional website</text>
+    </name>
+    <questiontext format="html">
+      <text>Also really term main example join summer alone.
+Which effect perform difficult about father from. Tend onto fast parent smile behind Democrat. Even medical within tree continue know around yet.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Set movement cultural business admit hour newspaper campaign. Course next again party what. Ago soon probably new country fight.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>put</idnumber>
+    <answer fraction="11.11111" format="moodle_auto_format">
+      <text>60</text>
+      <feedback format="html">
+        <text>Seek while walk remember.</text>
+      </feedback>
+      <tolerance>7</tolerance>
+    </answer>
+    <answer fraction="50" format="moodle_auto_format">
+      <text>72</text>
+      <feedback format="html">
+        <text>Third up play opportunity.</text>
+      </feedback>
+      <tolerance>9</tolerance>
+    </answer>
+    <answer fraction="10" format="moodle_auto_format">
+      <text>81</text>
+      <feedback format="html">
+        <text>Material entire several election remain itself.</text>
+      </feedback>
+      <tolerance>2</tolerance>
+    </answer>
+    <answer fraction="10" format="moodle_auto_format">
+      <text>96</text>
+      <feedback format="html">
+        <text>Hit respond bar daughter bed heart later.</text>
+      </feedback>
+      <tolerance>6</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Distributed high-level open system</text>
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="numerical">
+    <name>
+      <text>Compatible optimal encoding</text>
+    </name>
+    <questiontext format="html">
+      <text>Upon eye party would mouth. As budget member suffer job.
+Sister century buy operation. Stop lose collection whatever away cultural cold.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Late particular serve specific evening account loss. Alone last performance decision receive personal news hour. Along painting south food space paper about reach. Next check station agency.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>along</idnumber>
+    <answer fraction="66.66667" format="moodle_auto_format">
+      <text>78</text>
+      <feedback format="html">
+        <text>Dark positive thus realize.</text>
+      </feedback>
+      <tolerance>4</tolerance>
+    </answer>
+    <answer fraction="40" format="moodle_auto_format">
+      <text>81</text>
+      <feedback format="html">
+        <text>Process eye thank leave feeling consider.</text>
+      </feedback>
+      <tolerance>4</tolerance>
+    </answer>
+    <answer fraction="66.66667" format="moodle_auto_format">
+      <text>76</text>
+      <feedback format="html">
+        <text>Never soon off send.</text>
+      </feedback>
+      <tolerance>2</tolerance>
+    </answer>
+    <answer fraction="90" format="moodle_auto_format">
+      <text>78</text>
+      <feedback format="html">
+        <text>Scene support job share.</text>
+      </feedback>
+      <tolerance>3</tolerance>
+    </answer>
+    <hint format="html">
+      <text>Grass-roots disintermediate installation</text>
+    </hint>
+  </question>
+</quiz>

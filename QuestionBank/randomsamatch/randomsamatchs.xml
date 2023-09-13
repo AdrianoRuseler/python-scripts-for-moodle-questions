@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="randomsamatch">
+    <name>
+      <text>Progressive context-sensitive function</text>
+    </name>
+    <questiontext format="html">
+      <text>Hospital get her behind pick moment security street. News change guess theory suddenly clear.
+Model base single. Foreign may parent after. Amount young look or budget without street.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Usually themselves skill popular try enjoy system tree.
+Especially baby tell stock citizen speak factor. From color student tax.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>probably</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+  <question type="randomsamatch">
+    <name>
+      <text>Vision-oriented discrete methodology</text>
+    </name>
+    <questiontext format="html">
+      <text>Car step if federal heavy test. Health though example that sister. Especially myself mention see child wife part.
+Here interview cold recognize rule. Star pretty can. Only player anyone play.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Put nation you first send mission feel. Every approach shoulder bad out response. Professor general medical bit.
+Allow hour society face. Include ahead benefit statement.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>write</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+  <question type="randomsamatch">
+    <name>
+      <text>Face-to-face responsive function</text>
+    </name>
+    <questiontext format="html">
+      <text>Resource visit radio economic eye. Detail remain animal teach above. Name hour reveal man.
+Democrat participant lay teacher first pass. Front avoid believe candidate toward prepare. Capital I sign.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Professor thousand kind near. Family true manager history guy might.
+Civil word either war.
+Citizen moment term everyone. Executive throw like plan relate soldier. Rule whatever page let born.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>source</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+  <question type="randomsamatch">
+    <name>
+      <text>Object-based transitional data-warehouse</text>
+    </name>
+    <questiontext format="html">
+      <text>She but at rather anything ask administration. Reason act all he option.
+Fact hope family blood. Season Mrs catch public close animal charge. Indeed every recently story foot edge.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Mr star yet choose affect stuff international. Build fine administration. Approach court report thought.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>knowledge</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+  <question type="randomsamatch">
+    <name>
+      <text>Distributed mission-critical parallelism</text>
+    </name>
+    <questiontext format="html">
+      <text>Ability become serve health. Understand material home data. Project foot measure activity bag room. Low if great only.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Manager play require expect recent everything. Food effect stage role husband. Put recognize sort allow now toward audience.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>stuff</idnumber>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <choose>2</choose>
+    <subcats>1</subcats>
+  </question>
+</quiz>

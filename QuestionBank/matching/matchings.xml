@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Distributed motivating open system</text>
+    </name>
+    <questiontext format="html">
+      <text>More nature him type me newspaper reveal. Maybe performance couple call debate direction hit.
+Nation resource later time everyone picture seek. Finish charge wear of project country two.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Well occur around result. Picture fight east so. Stuff stand difference nature well both according. Attorney Mrs war garden by happy main knowledge.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>term</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Address society possible every church wall.</text>
+      <answer>
+        <text>decide</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Computer speech wrong.</text>
+      <answer>
+        <text>science</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Just watch success success allow almost none toward.</text>
+      <answer>
+        <text>production</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>These small culture expert test economy face executive.</text>
+      <answer>
+        <text>everybody</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Customizable demand-driven alliance</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Sharable non-volatile application</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Team-oriented web-enabled projection</text>
+    </name>
+    <questiontext format="html">
+      <text>Claim later dark. Model itself team.
+Star something investment realize hot.
+Size blood laugh door fall under. Trial front develop TV system. Effort business simply. Until age great bad.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Sing natural story that lead partner offer. Together follow century wind weight.
+From newspaper science rich. Military question we quality season.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>music</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Speak create country amount writer forget election.</text>
+      <answer>
+        <text>low</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Nearly approach site see mother imagine remember.</text>
+      <answer>
+        <text>minute</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Area model whole could happen reveal.</text>
+      <answer>
+        <text>interest</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Investment well get.</text>
+      <answer>
+        <text>future</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Fundamental radical access</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Diverse exuding hierarchy</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Switchable background firmware</text>
+    </name>
+    <questiontext format="html">
+      <text>Receive lay open rate ask media picture. Simple cause several. Black surface position if national.
+Strategy teach writer tend of military.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Hear occur office whatever thank class. Interest election season executive.
+Provide music government. Event deal serve this simply their door source. Full anyone ground out standard.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>pass</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Us low likely customer.</text>
+      <answer>
+        <text>class</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Ok class newspaper.</text>
+      <answer>
+        <text>south</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Natural air near per manager.</text>
+      <answer>
+        <text>class</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>War oil image security.</text>
+      <answer>
+        <text>part</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Horizontal value-added budgetary management</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Extended methodical utilization</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Future-proofed modular success</text>
+    </name>
+    <questiontext format="html">
+      <text>Together prepare act truth yes long. Leader worker save in show. Skin quickly budget why sound food.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Green book wish throughout know type. Pattern voice chance get result anyone carry. One development will whose speak. Before pass reflect.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>fish</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Help build likely.</text>
+      <answer>
+        <text>out</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Student economic read figure ok place travel.</text>
+      <answer>
+        <text>into</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Yeah present a sport against.</text>
+      <answer>
+        <text>one</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Bit including morning return spend history Mrs.</text>
+      <answer>
+        <text>people</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Front-line multi-state adapter</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Triple-buffered reciprocal functionalities</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="matching">
+    <name>
+      <text>Multi-lateral national matrix</text>
+    </name>
+    <questiontext format="html">
+      <text>Financial my ahead shoulder painting style represent. Design difficult drop around hand federal clear memory.
+Whole claim western sometimes. Specific rule increase hand position.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Trip get building better only war. Direction crime world partner during. Brother development short change myself model.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>national</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>Bar TV argue court their seem.</text>
+      <answer>
+        <text>total</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Message again inside agreement today impact first.</text>
+      <answer>
+        <text>exactly</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Drug conference appear oil product participant.</text>
+      <answer>
+        <text>news</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Prepare plant system somebody difficult share collection.</text>
+      <answer>
+        <text>street</text>
+      </answer>
+    </subquestion>
+    <hint format="html">
+      <text>Progressive neutral focus group</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Innovative clear-thinking system engine</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>

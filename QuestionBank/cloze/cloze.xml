@@ -3,17 +3,17 @@
   <!--This is a comment-->
   <question type="cloze">
     <name>
-      <text>Open-architected attitude-oriented matrix</text>
+      <text>Quality-focused mission-critical frame</text>
     </name>
     <questiontext format="html">
-      <text>Heavy newspaper answer edge break. Thus door some where least. Job responsibility quickly place member.
-Maybe authority design usually move state. Wrong trip agent after sing.</text>
+      <text>Tell send vote another imagine evidence enter military. Form college my sister.
+Eat daughter development simply. Consider financial since just.</text>
     </questiontext>
     <generalfeedback format="html">
-      <text>Much listen parent natural age college home. Degree face air fine campaign skin west report.</text>
+      <text>{1:MULTICHOICE:~1#f1~%100%2#f2~%100%3#f3}</text>
     </generalfeedback>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <idnumber>usually</idnumber>
+    <idnumber>customer</idnumber>
   </question>
 </quiz>

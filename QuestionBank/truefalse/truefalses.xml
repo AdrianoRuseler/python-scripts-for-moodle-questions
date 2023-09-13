@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="truefalse">
+    <name>
+      <text>Robust foreground leverage</text>
+    </name>
+    <questiontext format="html">
+      <text>Hit no then financial available.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Form improve teacher six add close.
+Eight kind tough until against. Bring decade build pretty those issue than. Federal add evidence bring change.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <idnumber>fear</idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text>Fundamental client-server productivity</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text>Seamless 24/7 monitoring</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="truefalse">
+    <name>
+      <text>Automated responsive infrastructure</text>
+    </name>
+    <questiontext format="html">
+      <text>Food reveal them song.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Ok plan author cup throw. Happy policy debate white difference. See across camera least quickly much.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <idnumber>foot</idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text>Focused human-resource process improvement</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text>Object-based clear-thinking intranet</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="truefalse">
+    <name>
+      <text>Networked heuristic middleware</text>
+    </name>
+    <questiontext format="html">
+      <text>Black when need rather.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Push or impact model question country throw. Nature tree not bring kid under him.
+Present sell hand fund bit somebody how. From management until.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <idnumber>first</idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text>Progressive attitude-oriented website</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text>Multi-channeled holistic customer loyalty</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="truefalse">
+    <name>
+      <text>Organic radical parallelism</text>
+    </name>
+    <questiontext format="html">
+      <text>Believe company tend professor economic size.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Carry newspaper eight. Study structure present thing mission. Time life ability beyond book tonight tax. Second bad modern.
+Understand keep teacher education discussion. Vote born large.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <idnumber>score</idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text>Intuitive bottom-line initiative</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text>Profit-focused high-level conglomeration</text>
+      </feedback>
+    </answer>
+  </question>
+  <!--This is a comment-->
+  <question type="truefalse">
+    <name>
+      <text>Operative regional focus group</text>
+    </name>
+    <questiontext format="html">
+      <text>City thank factor down care.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Lose first environmental focus send. Town sort check enter article agency.
+Than bring so whom hard the conference. Hit paper system.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <idnumber>crime</idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text>Public-key non-volatile matrix</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text>Front-line secondary algorithm</text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -6,7 +6,7 @@ import xml.etree.cElementTree as ET
 quiz = ET.Element("quiz")
 
 # Question Loop
-for _ in range(10):
+for _ in range(50):
     quiz.append(ET.Comment('This is a comment'))
 
     # Question Loop
