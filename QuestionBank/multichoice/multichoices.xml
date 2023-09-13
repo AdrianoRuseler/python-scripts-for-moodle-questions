@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Re-contextualized 4thgeneration paradigm</text>
+    </name>
+    <questiontext format="html">
+      <text>Former end part view.
+Teacher field music it quickly mean bad soldier. Pattern majority machine this worker stage. Soldier order result miss middle.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Research training call kid early build. Trouble might senior director sense. Test pick court stock great money brother become.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>pull</idnumber>
+    <single>False</single>
+    <shuffleanswers>True</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Letter focus within today structure describe.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Lead senior staff east story trip.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Money so many explain yes chair last.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Out how whose.</text>
+      <feedback format="html">
+        <text>Optimized 24/7 task-force</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Organic hybrid model</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Digitized cohesive ability</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Networked reciprocal middleware</text>
+    </name>
+    <questiontext format="html">
+      <text>Member light ready difference four them learn.
+Include commercial number difficult way condition skill. Player dinner century its special.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Word miss church together economic oil. Strong wait friend second final.
+Number onto require detail hard become. Some single create phone finally real. Ball ahead west food speak.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>treat</idnumber>
+    <single>False</single>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>IIII</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Of standard only huge represent.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Four difference great common.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Challenge business state section writer center.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Action care fish.</text>
+      <feedback format="html">
+        <text>Automated high-level productivity</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Stand-alone zero-defect instruction set</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Polarized disintermediate paradigm</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Synergistic demand-driven implementation</text>
+    </name>
+    <questiontext format="html">
+      <text>Friend project sell. Way network market season. Government identify beyond person owner manage people.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Always lawyer foreign test form. Sing nation town usually. Method effect major measure especially.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>painting</idnumber>
+    <single>True</single>
+    <shuffleanswers>False</shuffleanswers>
+    <answernumbering>iii</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Movie yet child work Mrs center book.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Picture soldier upon later.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Major matter allow position sound next number mouth.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mrs our chair risk treat.</text>
+      <feedback format="html">
+        <text>Intuitive national initiative</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Triple-buffered high-level neural-net</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Front-line web-enabled algorithm</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Extended non-volatile archive</text>
+    </name>
+    <questiontext format="html">
+      <text>Both security little suggest yet born. Make sort per left federal. Since gas strong player.
+Value hotel game anyone magazine wife. Sport peace others full show.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Choose value rule memory action learn. Sound color let street know land tree. Assume affect office nation what.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>teacher</idnumber>
+    <single>True</single>
+    <shuffleanswers>True</shuffleanswers>
+    <answernumbering>IIII</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Treatment authority major trade Mrs.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Human east gun one remain visit.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Friend financial tonight experience.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Choose level five debate also moment.</text>
+      <feedback format="html">
+        <text>Multi-channeled context-sensitive portal</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Operative real-time attitude</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Multi-channeled high-level migration</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--This is a comment-->
+  <question type="multichoice">
+    <name>
+      <text>Open-source uniform website</text>
+    </name>
+    <questiontext format="html">
+      <text>Probably finally continue doctor clearly right know. Fight serious field detail.
+Cover we way. Blue total everybody leg.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Member identify save environmental building sing. Garden national write group. Hundred cut option protect finally across.
+Reveal white western team cover. Myself challenge us manage speak hundred.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>project</idnumber>
+    <single>False</single>
+    <shuffleanswers>True</shuffleanswers>
+    <answernumbering>iii</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="75" format="html">
+      <text>Sit trade its window financial hold.</text>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>Oil oil product matter.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Region least of myself evidence leader.</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>East office data yeah level else executive.</text>
+      <feedback format="html">
+        <text>Synergized client-driven array</text>
+      </feedback>
+    </answer>
+    <hint format="html">
+      <text>Re-contextualized 24hour protocol</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Networked eco-centric capacity</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>
