@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--Synchronized methodical knowledge user-->
+  <question type="gapselect">
+    <name>
+      <text>Versatile neutral customer loyalty</text>
+    </name>
+    <questiontext format="html">
+      <text>Word even certainly economy about. [[1]] &lt;br&gt; Into stay most win. [[2]] &lt;br&gt; Reason likely health choice life night former. [[3]] &lt;br&gt; First mind save his body pull. [[4]] &lt;br&gt; Impact financial benefit later serve hour fear. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Situation clearly adult my throughout. Carry and while hour. Simple success TV cost organization improve choose. With cold option measure become.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>though</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>hope</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>word</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>south</text>
+      <group>5</group>
+    </selectoption>
+    <selectoption>
+      <text>firm</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>find</text>
+      <group>7</group>
+    </selectoption>
+    <hint format="html">
+      <text>Distributed web-enabled approach</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Automated next generation capability</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--Inverse object-oriented contingency-->
+  <question type="gapselect">
+    <name>
+      <text>Customer-focused modular secured line</text>
+    </name>
+    <questiontext format="html">
+      <text>Join age key environment low talk while. [[1]] &lt;br&gt; Artist item ready participant manage since. [[2]] &lt;br&gt; Our story particular while include rate especially. [[3]] &lt;br&gt; Share yourself reality machine product husband. [[4]] &lt;br&gt; Them add allow response professor compare. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Face run particularly friend hundred state. Yard his add cell. Probably economic myself attorney night only.
+Ever tend sell. Thousand sort whose itself edge decide visit instead.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>paper</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>treat</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>interview</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>receive</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>always</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>ball</text>
+      <group>8</group>
+    </selectoption>
+    <hint format="html">
+      <text>Focused bottom-line function</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Intuitive multi-state hierarchy</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--Managed optimal Internet solution-->
+  <question type="gapselect">
+    <name>
+      <text>Optimized mobile flexibility</text>
+    </name>
+    <questiontext format="html">
+      <text>Lay thought notice section particular show. [[1]] &lt;br&gt; Deal line mind score fly need. [[2]] &lt;br&gt; Develop technology product official. [[3]] &lt;br&gt; Before direction home majority avoid. [[4]] &lt;br&gt; Make someone great outside. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Project ok its despite degree. Part receive than six record according. Sort during onto between institution eat Mr store.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>paper</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>green</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>score</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>recent</text>
+      <group>7</group>
+    </selectoption>
+    <selectoption>
+      <text>seven</text>
+      <group>7</group>
+    </selectoption>
+    <selectoption>
+      <text>try</text>
+      <group>5</group>
+    </selectoption>
+    <hint format="html">
+      <text>Business-focused executive neural-net</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Proactive high-level time-frame</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--Universal system-worthy secured line-->
+  <question type="gapselect">
+    <name>
+      <text>Expanded motivating budgetary management</text>
+    </name>
+    <questiontext format="html">
+      <text>Pretty summer east Mr south. [[1]] &lt;br&gt; Program contain trouble technology huge. [[2]] &lt;br&gt; Hand ago purpose your as write value. [[3]] &lt;br&gt; Today laugh name already total him. [[4]] &lt;br&gt; Personal born office life down reduce. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Adult ready maintain final fight data science. Big both allow perhaps space they subject.
+I many artist call. Because medical hospital role place process company structure.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>increase</idnumber>
+    <shuffleanswers>False</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>end</text>
+      <group>9</group>
+    </selectoption>
+    <selectoption>
+      <text>still</text>
+      <group>3</group>
+    </selectoption>
+    <selectoption>
+      <text>kitchen</text>
+      <group>5</group>
+    </selectoption>
+    <selectoption>
+      <text>risk</text>
+      <group>6</group>
+    </selectoption>
+    <selectoption>
+      <text>enter</text>
+      <group>8</group>
+    </selectoption>
+    <hint format="html">
+      <text>Enhanced 24/7 ability</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Reduced disintermediate approach</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+  <!--Object-based mobile groupware-->
+  <question type="gapselect">
+    <name>
+      <text>Universal 24hour concept</text>
+    </name>
+    <questiontext format="html">
+      <text>Than food word main. [[1]] &lt;br&gt; Fund single onto. [[2]] &lt;br&gt; Result now line administration. [[3]] &lt;br&gt; Drive simply might free. [[4]] &lt;br&gt; Middle pretty such. [[5]] &lt;br&gt; </text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Fire term avoid reach receive interview. General teach hair behavior current.
+Force deep win city list author. Yes in bed everything water through case.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>hospital</idnumber>
+    <shuffleanswers>True</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <selectoption>
+      <text>join</text>
+      <group>7</group>
+    </selectoption>
+    <selectoption>
+      <text>life</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>year</text>
+      <group>4</group>
+    </selectoption>
+    <selectoption>
+      <text>police</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>throughout</text>
+      <group>4</group>
+    </selectoption>
+    <hint format="html">
+      <text>Advanced methodical software</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+    <hint format="html">
+      <text>Public-key local middleware</text>
+      <clearwrong />
+      <shownumcorrect />
+    </hint>
+  </question>
+</quiz>
