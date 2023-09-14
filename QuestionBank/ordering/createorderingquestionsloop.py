@@ -7,7 +7,7 @@ quiz = ET.Element("quiz")
 
 # Question Loop
 for _ in range(10):
-    quiz.append(ET.Comment('This is a comment'))
+    quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
     question = ET.SubElement(quiz, "question", type="ordering") # Question Type
 
     # Question Name

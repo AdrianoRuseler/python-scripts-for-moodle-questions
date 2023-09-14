@@ -4,7 +4,7 @@ import random
 import xml.etree.cElementTree as ET
 
 quiz = ET.Element("quiz")
-quiz.append(ET.Comment('This is a comment'))
+quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
 
 # Question Loop
 question = ET.SubElement(quiz, "question", type="truefalse") # Question Type

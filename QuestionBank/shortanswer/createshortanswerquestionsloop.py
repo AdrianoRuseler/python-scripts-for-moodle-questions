@@ -4,7 +4,7 @@ import random
 import xml.etree.cElementTree as ET
 
 quiz = ET.Element("quiz")
-quiz.append(ET.Comment('This is a comment'))
+quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
 
 nq=10
 # Question Loop
@@ -58,4 +58,4 @@ for _ in range(nq):
 
 tree = ET.ElementTree(quiz)
 ET.indent(tree)
-tree.write("shortanswerloop.xml",xml_declaration=True, encoding="utf-8",short_empty_elements=True) # Enabled self-closed tag
+tree.write("shortanswers.xml",xml_declaration=True, encoding="utf-8",short_empty_elements=True) # Enabled self-closed tag

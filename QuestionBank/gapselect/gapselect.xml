@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <quiz>
-  <!--This is a comment-->
+  <!--Function-based incremental infrastructure-->
   <question type="gapselect">
     <name>
-      <text>Upgradable asynchronous alliance</text>
+      <text>Enterprise-wide incremental process improvement</text>
     </name>
     <questiontext format="html">
-      <text>Sort who camera. [[1]] &lt;br&gt; Fish detail research situation between. [[2]] &lt;br&gt; Company goal key whatever condition. [[3]] &lt;br&gt; Up evidence behind program. [[4]] &lt;br&gt; Market occur claim bad. [[5]] &lt;br&gt; </text>
+      <text>Break account challenge trade. [[1]] &lt;br&gt; Short father begin can guess hair. [[2]] &lt;br&gt; Degree none moment science because speech need. [[3]] &lt;br&gt; Find defense value probably cell admit. [[4]] &lt;br&gt; Brother foot short alone within wrong collection. [[5]] &lt;br&gt; </text>
     </questiontext>
     <generalfeedback format="html">
-      <text>Everyone trade less almost if before child around. Door him of others artist message eye.</text>
+      <text>Policy listen institution live network religious high. Use although simple outside increase.
+Success fill cold can give economy. Popular far wall read.</text>
     </generalfeedback>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
     <hidden>0</hidden>
-    <idnumber>sister</idnumber>
-    <shuffleanswers>True</shuffleanswers>
+    <idnumber>begin</idnumber>
+    <shuffleanswers>False</shuffleanswers>
     <correctfeedback format="html">
       <text>Your answer is correct.</text>
     </correctfeedback>
@@ -27,32 +28,32 @@
     </incorrectfeedback>
     <shownumcorrect />
     <selectoption>
-      <text>street</text>
-      <group>1</group>
+      <text>dinner</text>
+      <group>6</group>
     </selectoption>
     <selectoption>
-      <text>cup</text>
+      <text>late</text>
+      <group>5</group>
+    </selectoption>
+    <selectoption>
+      <text>course</text>
+      <group>5</group>
+    </selectoption>
+    <selectoption>
+      <text>forward</text>
       <group>3</group>
     </selectoption>
     <selectoption>
-      <text>how</text>
-      <group>8</group>
-    </selectoption>
-    <selectoption>
-      <text>present</text>
-      <group>8</group>
-    </selectoption>
-    <selectoption>
-      <text>open</text>
+      <text>company</text>
       <group>6</group>
     </selectoption>
     <hint format="html">
-      <text>De-engineered attitude-oriented open system</text>
+      <text>Secured national data-warehouse</text>
       <clearwrong />
       <shownumcorrect />
     </hint>
     <hint format="html">
-      <text>Inverse bottom-line software</text>
+      <text>Multi-lateral bottom-line hardware</text>
       <clearwrong />
       <shownumcorrect />
     </hint>

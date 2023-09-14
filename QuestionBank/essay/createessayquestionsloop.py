@@ -6,8 +6,8 @@ import xml.etree.cElementTree as ET
 quiz = ET.Element("quiz")
 
 # Question Loop
-for _ in range(5):
-    quiz.append(ET.Comment('This is a comment'))
+for _ in range(50):
+    quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
 
     question = ET.SubElement(quiz, "question", type="essay") # Question Type
 
