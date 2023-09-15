@@ -7,7 +7,7 @@ quiz = ET.Element("quiz")
 
 # Question Loop
 for q in range(5):
-    quiz.append(ET.Comment("truefalse number: "+str(q+1)) # This is a comment
+    quiz.append(ET.Comment("truefalse number: "+str(q+1))) # This is a comment
 
     # Question Loop
     question = ET.SubElement(quiz, "question", type="truefalse") # Question Type
