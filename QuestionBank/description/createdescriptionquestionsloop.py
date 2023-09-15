@@ -4,17 +4,17 @@ import xml.etree.cElementTree as ET
 
 quiz = ET.Element("quiz")
 # Question Loop
-for _ in range(10):
-    quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
+for q in range(5):
+    quiz.append(ET.Comment("description number: "+str(q+1))) # This is a comment
     question = ET.SubElement(quiz, "question", type="description") # Question Type
 
     # Question Name
     name=ET.SubElement(question, "name")
-    ET.SubElement(name, "text").text = fake.catch_phrase()
+    ET.SubElement(name, "text").text = "description "+str(q+1)+': '+fake.catch_phrase()
 
     # Question Text
     questiontext=ET.SubElement(question, "questiontext", format="html")
-    ET.SubElement(questiontext,"text").text = fake.text()
+    ET.SubElement(questiontext,"text").text = "description "+str(q+1)+";<br>"+fake.text()
 
     generalfeedback=ET.SubElement(question, "generalfeedback", format="html")
     ET.SubElement(generalfeedback,"text").text = fake.text()
