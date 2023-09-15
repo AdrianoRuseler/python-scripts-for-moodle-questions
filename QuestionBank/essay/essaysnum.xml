@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <!--essay number: 1-->
+  <question type="essay">
+    <name>
+      <text>essay 1: Re-contextualized 4thgeneration adapter</text>
+    </name>
+    <questiontext format="html">
+      <text>essay 1;&lt;br&gt;Right speech every police.
+Partner for task include. Party everybody home even buy. Imagine eat guy keep.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Management sense about feeling phone stop skill claim. Decide stay discussion. Western window but another play difference.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>camera</idnumber>
+    <responseformat>noinline</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>1</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist>*</filetypeslist>
+    <graderinfo format="html">
+      <text>Eye develop center three blue. Something ability leader decision concern.
+Blood rest back argue. Computer indicate establish clear or. Stock book radio window easy picture.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>City image information back goal check nation. Wish country radio interesting. Above despite let campaign.
+Window especially himself what. Ability owner require along sister detail want.</text>
+    </responsetemplate>
+  </question>
+  <!--essay number: 2-->
+  <question type="essay">
+    <name>
+      <text>essay 2: Monitored attitude-oriented alliance</text>
+    </name>
+    <questiontext format="html">
+      <text>essay 2;&lt;br&gt;Series class go everything second. Fund improve show civil final.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Turn great simple analysis. Poor ball month need inside them allow. Purpose police little by always western never probably.
+Whatever send pretty system now. Receive push recently win employee.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>teacher</idnumber>
+    <responseformat>plain</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>1</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist>*</filetypeslist>
+    <graderinfo format="html">
+      <text>Never property less lose him cultural. Moment free pay half ask. Follow fund note cover way.
+Decade across yourself would less century. Expert continue few because key cut. Parent be old.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>Car need put difficult. Sound ago just set.
+Project daughter see factor field security. Law subject case everything message. They gun carry movement lot.</text>
+    </responsetemplate>
+  </question>
+  <!--essay number: 3-->
+  <question type="essay">
+    <name>
+      <text>essay 3: Centralized tangible challenge</text>
+    </name>
+    <questiontext format="html">
+      <text>essay 3;&lt;br&gt;Her service event soldier change spring though. Recently decision sea easy today up.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Themselves final whom happy them box. Quite film speak maintain.
+Like team question father everything most fear bill. Usually necessary red pay cup talk challenge. Nature free wrong wide report push.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>exactly</idnumber>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>1</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist>*</filetypeslist>
+    <graderinfo format="html">
+      <text>Exactly possible rate spend also glass like contain. Score buy position part. Deep eye rock big yes idea. Charge book vote.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>Article growth ahead language. Protect more Mr story development short strong source.
+Matter suffer rather religious talk general feel. Near order such yes main color. Set bit similar goal.</text>
+    </responsetemplate>
+  </question>
+  <!--essay number: 4-->
+  <question type="essay">
+    <name>
+      <text>essay 4: Extended didactic initiative</text>
+    </name>
+    <questiontext format="html">
+      <text>essay 4;&lt;br&gt;Public become part indeed. Company oil family notice. Land opportunity energy business lead.
+Show data few store. Forget help factor debate.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Argue media third range these discussion space. House identify provide newspaper.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>wear</idnumber>
+    <responseformat>monospaced</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>1</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist>*</filetypeslist>
+    <graderinfo format="html">
+      <text>Guess issue Congress reason black party.
+Law red report theory commercial game. Sell west management some standard total.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>Seat anything people land best we. Gas begin rather his interest fear line. Ability me according staff animal. Under country purpose want theory ok together.</text>
+    </responsetemplate>
+  </question>
+  <!--essay number: 5-->
+  <question type="essay">
+    <name>
+      <text>essay 5: Universal attitude-oriented throughput</text>
+    </name>
+    <questiontext format="html">
+      <text>essay 5;&lt;br&gt;Data game hotel attention money country. Management country everyone find eight always computer.
+Language newspaper push class through. Miss sort TV technology want.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>Popular magazine table either that oil great. West chance recent fly late. Public style of. Realize power rock.
+Over point money federal. Set garden item speak. Wear worker southern art.</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>assume</idnumber>
+    <responseformat>noinline</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>10</responsefieldlines>
+    <minwordlimit>50</minwordlimit>
+    <maxwordlimit>500</maxwordlimit>
+    <attachments>1</attachments>
+    <attachmentsrequired>1</attachmentsrequired>
+    <maxbytes>0</maxbytes>
+    <filetypeslist>*</filetypeslist>
+    <graderinfo format="html">
+      <text>Option everyone entire leg. Daughter bag area site arm window.
+Central require under that choose six begin. Century hour might reveal like dog spend.</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text>Card from attorney career nation act expect. Age choose condition wind pretty. Could training chance gas civil.
+Grow general participant consider.</text>
+    </responsetemplate>
+  </question>
+</quiz>
