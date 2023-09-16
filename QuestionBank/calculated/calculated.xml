@@ -1,28 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <quiz>
-  <!--This is a comment-->
+  <!--Progressive bandwidth-monitored policy-->
   <question type="calculated">
     <name>
-      <text>Team-oriented 3rdgeneration approach</text>
+      <text>Ameliorated upward-trending challenge</text>
     </name>
     <questiontext format="html">
-      <text>{x} e {y}Message against building. Usually society wear low win sit western.
-Into suddenly seat claim. Drug gas military here.
-Analysis create cell improve unit create charge all.</text>
+      <text>{x} e {y}Candidate raise send sign. Technology member house speech collection.
+Think main success city. Lot take too white as.</text>
     </questiontext>
     <generalfeedback format="html">
-      <text>Fall eat argue force prevent time public. In performance discussion cover radio large. Movie health successful.
-Nature case finally civil yet no. Responsibility we tax talk book her service find.</text>
+      <text>Drive on night forget space anything light into. Under hot commercial argue point. Building generation former admit less.</text>
     </generalfeedback>
     <defaultgrade>1</defaultgrade>
     <penalty>0.3333333</penalty>
     <hidden>0</hidden>
-    <idnumber>sit</idnumber>
+    <idnumber>wall</idnumber>
     <synchronize>0</synchronize>
-    <single>True</single>
+    <single>False</single>
     <shuffleanswers>False</shuffleanswers>
-    <answernumbering>IIII</answernumbering>
-    <showstandardinstruction>0</showstandardinstruction>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
     <correctfeedback format="html">
       <text>Your answer is correct.</text>
     </correctfeedback>
@@ -32,14 +30,14 @@ Nature case finally civil yet no. Responsibility we tax talk book her service fi
     <incorrectfeedback format="html">
       <text>Your answer is incorrect.</text>
     </incorrectfeedback>
-    <answer fraction="66.66667">
+    <answer fraction="70">
       <text>{x}+{y}</text>
       <tolerance>0.01</tolerance>
       <tolerancetype>1</tolerancetype>
       <correctanswerformat>1</correctanswerformat>
       <correctanswerlength>2</correctanswerlength>
       <feedback format="html">
-        <text>Here doctor season end serve party west.</text>
+        <text>Charge water ever cost number partner.</text>
       </feedback>
     </answer>
     <unitgradingtype>0</unitgradingtype>
@@ -47,7 +45,7 @@ Nature case finally civil yet no. Responsibility we tax talk book her service fi
     <showunits>3</showunits>
     <unitsleft>0</unitsleft>
     <hint format="html">
-      <text>Cross-group value-added software</text>
+      <text>Optional executive support</text>
     </hint>
   </question>
 </quiz>
