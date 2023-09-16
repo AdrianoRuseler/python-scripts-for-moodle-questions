@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 quiz = ET.Element("quiz")
 # Question Loop
 for q in range(5):
-    quiz.append(ET.Comment(fake.catch_phrase())) # This is a comment
+    quiz.append(ET.Comment("description quiz type number: "+str(q+1))) # This is a comment
 
     # Question Loop
     question = ET.SubElement(quiz, "question", type="description") # Question Type
@@ -19,8 +19,6 @@ for q in range(5):
     # Question Text
     questiontext=ET.SubElement(question, "questiontext", format="html")
 
-
-    #name="839-200x200.jpg" path="/" encoding="base64"
     # Getting image in bytes
     response = requests.get("https://picsum.photos/200") 
     imgname=(response.headers.get("Content-Disposition").split("filename=")[1]).replace('"', '') 
@@ -35,7 +33,7 @@ for q in range(5):
     ET.SubElement(question, "defaultgrade").text = "0"
     ET.SubElement(question, "penalty").text = "0"
     ET.SubElement(question, "hidden").text = "0"
-    ET.SubElement(question, "idnumber").text = fake.word()
+    ET.SubElement(question, "idnumber").text = "description"+str(q+1)
 
 tree = ET.ElementTree(quiz)
 ET.indent(tree)
