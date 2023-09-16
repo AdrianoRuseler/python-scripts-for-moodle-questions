@@ -22,7 +22,7 @@ for q in range(5):
     ET.SubElement(question, "defaultgrade").text = "0"
     ET.SubElement(question, "penalty").text = "0"
     ET.SubElement(question, "hidden").text = "0"
-    ET.SubElement(question, "idnumber").text = fake.word()
+    ET.SubElement(question, "idnumber").text = "description"+str(q+1)
 
 tree = ET.ElementTree(quiz)
 ET.indent(tree)
