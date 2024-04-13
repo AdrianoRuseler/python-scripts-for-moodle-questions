@@ -17,9 +17,20 @@ ET.SubElement(name, "text").text = fake.catch_phrase() # Question name
 questiontext=ET.SubElement(question, "questiontext", format="html")
 
 # Question Types
+# multiple choice (MULTICHOICE or MC), represented as a dropdown menu in-line in the text,
+# multiple choice (MULTICHOICE_V or MCV), represented as a vertical column of radio buttons, or
+# multiple choice (MULTICHOICE_H or MCH), represented as a horizontal row of radio-buttons,
 MULTICHOICELIST=['MULTICHOICE','MULTICHOICE_H','MULTICHOICE_V','MULTICHOICE_S','MULTICHOICE_HS','MULTICHOICE_VS']
+
+# multiple choice (MULTIRESPONSE or MR), represented as a vertical row of checkboxes
+# multiple choice (MULTIRESPONSE_H or MRH), represented as a horizontal row of checkboxes
 MULTIRESPONSELIST=['MULTIRESPONSE','MULTIRESPONSE_H','MULTIRESPONSE_S','MULTIRESPONSE_HS']
+
+# numerical answers (NUMERICAL or NM),
 # NUMERICALLIST=['NUMERICAL']
+
+# short answers (SHORTANSWER or SA or MW), case is unimportant,
+# short answers (SHORTANSWER_C or SAC or MWC), case must match,
 SHORTANSWERLIST=['SHORTANSWER','SHORTANSWER_C']
 
 # random select one type
