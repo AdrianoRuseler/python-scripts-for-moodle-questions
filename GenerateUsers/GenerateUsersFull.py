@@ -5,14 +5,16 @@ fake = Faker()
 
 import csv
 
-# field names 
-# username;firstname;lastname;email;password
-fields = ['username', 'firstname', 'lastname', 'email','password'] 
-# https://docs.moodle.org/311/en/Upload_users
-      
 # name of csv file 
 filename = "userstoimportfull.csv"
 nusers = 5
+
+# field names 
+# username;firstname;lastname;email;password
+fields = ['username', 'firstname', 'lastname', 'email','password'] 
+# https://docs.moodle.org/404/en/Upload_users
+      
+
 # writing to csv file 
 with open(filename, 'w',newline='\n') as csvfile: 
     # creating a csv writer object 
