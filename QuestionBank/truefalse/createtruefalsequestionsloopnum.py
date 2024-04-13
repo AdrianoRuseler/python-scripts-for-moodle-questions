@@ -7,6 +7,17 @@ quiz = ET.Element("quiz")
 
 # Question Loop
 for q in range(5):
+    # Is true or false?
+    if fake.pybool():
+      print("True!")
+      qtext=fake.sentence() + ' (True!)'# Question text 
+      faf="0"
+      taf="100"
+    else:
+      print("False!")
+      qtext=fake.sentence() + ' (False!)'# Question text
+      faf="100"
+      taf="0"
     quiz.append(ET.Comment("truefalse number: "+str(q+1))) # This is a comment
 
     # Question Loop
@@ -18,7 +29,7 @@ for q in range(5):
 
     # Question Text
     questiontext=ET.SubElement(question, "questiontext", format="html")
-    ET.SubElement(questiontext,"text").text = "truefalse "+str(q+1)+";<br>"+fake.sentence() # Question text 
+    ET.SubElement(questiontext,"text").text = "truefalse "+str(q+1)+";<br>"+qtext # Question text 
 
     generalfeedback=ET.SubElement(question, "generalfeedback", format="html")
     ET.SubElement(generalfeedback,"text").text = fake.text() # General feedback 
@@ -28,12 +39,12 @@ for q in range(5):
     ET.SubElement(question, "hidden").text = "0"
     ET.SubElement(question, "idnumber").text = fake.word()
      
-    trueanswer=ET.SubElement(question, "answer", fraction="0", format="moodle_auto_format") 
+    trueanswer=ET.SubElement(question, "answer", fraction=taf, format="moodle_auto_format") 
     ET.SubElement(trueanswer,"text").text = "true"
     truefeedback=ET.SubElement(trueanswer,"feedback", format="html")
     ET.SubElement(truefeedback,"text").text = fake.catch_phrase()
 
-    falseanswer=ET.SubElement(question, "answer", fraction="100", format="moodle_auto_format") 
+    falseanswer=ET.SubElement(question, "answer", fraction=faf, format="moodle_auto_format") 
     ET.SubElement(falseanswer,"text").text = "false"
     falsefeedback=ET.SubElement(falseanswer,"feedback", format="html")
     ET.SubElement(falsefeedback,"text").text = fake.catch_phrase()
