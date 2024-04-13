@@ -5,13 +5,15 @@ fake = Faker()
 
 import csv
 
+# name of csv file 
+filename = "userstoimport.csv"
+nusers = 50
+
 # field names 
 # username;firstname;lastname;email;password
 fields = ['username', 'firstname', 'lastname', 'email','password'] 
         
-# name of csv file 
-filename = "userstoimport.csv"
-nusers = 5
+
 # writing to csv file 
 with open(filename, 'w',newline='\n') as csvfile: 
     # creating a csv writer object 
