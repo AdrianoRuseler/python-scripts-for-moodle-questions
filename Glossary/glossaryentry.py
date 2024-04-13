@@ -44,8 +44,7 @@ for e in range(ne):
         imginsert='<p><img src="@@PLUGINFILE@@/'+imgname+'" alt="'+imgname+'"></p>'
         ET.SubElement(entry, "DEFINITION").text = fake.text()+imginsert# <CONCEPT>Concept</CONCEPT>
     else:
-      ET.SubElement(entry, "DEFINITION").text = fake.text()# <CONCEPT>Concept</CONCEPT>
-        
+        ET.SubElement(entry, "DEFINITION").text = fake.text()# <CONCEPT>Concept</CONCEPT>  
 
     ET.SubElement(entry, "FORMAT").text = "1" # <FORMAT>1</FORMAT>
     ET.SubElement(entry, "USEDYNALINK").text = "0" # <USEDYNALINK>0</USEDYNALINK>
