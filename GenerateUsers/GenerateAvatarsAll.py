@@ -4,6 +4,9 @@ import csv
 import random
 import py_avataaars as pa
 
+# name of csv file 
+filename = "userstoimport.csv"
+
 # https://github.com/kebu/py-avataaars/blob/master/py_avataaars/__init__.py
 SkinColorOpts=['BLACK','TANNED','YELLOW','PALE','LIGHT','BROWN','DARK_BROWN']      
 HairColorOpts=['BLACK','AUBURN','BLONDE','BLONDE_GOLDEN','BROWN','BROWN_DARK','PASTEL_PINK','PLATINUM','RED','SILVER_GRAY']
@@ -24,8 +27,7 @@ AccessoriesTypeOpts=['DEFAULT','KURT','PRESCRIPTION_01','PRESCRIPTION_02','ROUND
 HatColorOpts=['BLACK','BLUE_01','BLUE_02','BLUE_03','GRAY_01','GRAY_02','HEATHER','PASTEL_BLUE','PASTEL_GREEN','PASTEL_ORANGE','PASTEL_RED','PASTEL_YELLOW','PINK','RED','WHITE']
 ClotheColorOpts=['BLACK','BLUE_01','BLUE_02','BLUE_03','GRAY_01','GRAY_02','HEATHER','PASTEL_BLUE','PASTEL_GREEN','PASTEL_ORANGE','PASTEL_RED','PASTEL_YELLOW','PINK','RED','WHITE']
 
-# name of csv file 
-filename = "userstoimportmale.csv"
+
 if not os.path.isdir('avatars'):
     os.mkdir('avatars')
     
